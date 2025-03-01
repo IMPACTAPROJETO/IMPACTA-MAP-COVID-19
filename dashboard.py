@@ -18,6 +18,13 @@ CENTER_LAT, CENTER_LON = -14.272572694355336, -51.25567404158474
 # Exibir o diretório de trabalho atual pois estava dando erro
 print("Diretório de trabalho atual:", os.getcwd())
 
+#Tratamento dos dados com  pandas as pd
+df = pd.read_csv("HIST_PAINEL_COVIDBR_13mai2021.csv", sep=";")
+df_states = df[(~df["estado"].isna()) & (df["codmun"].isna())]
+df_states.to_csv("df_states.csv")
+df_brasil.to_csv("df_brasil.csv")
+
+
 # Caminho para o arquivo CSV
 caminho_arquivo = "HIST_PAINEL_COVIDBR_13mai2021.csv"
 
