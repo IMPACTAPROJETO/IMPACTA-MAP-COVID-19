@@ -1,4 +1,6 @@
-## PROJETO FACULDADE Análise de Dados MAP_COVID-19
+## PROJETO FACULDADE 
+Análise de Dados      IMPACTA 
+                      MAPCOVID
 
 ---
 
@@ -7,10 +9,10 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico para mapear e
 
 ---
 
-# IMPACTA MAP COVID
+# IMPACTA MAP COVID-19
+Painel Dashboard Análise De Dados da COVID-19
+![Dashboard IMPACTA-MAPCOVID](https://snipboard.io/FnbUQz.jpg)  
 
-![Mapa de Calor COVID-19](https://snipboard.io/8EjWZh.jpg)  
-*(choropleth_mapbox)*
 
 ---
 PAINEL Interativo com Data e Cards informando os Dados do Dataframe.
@@ -19,8 +21,17 @@ PAINEL Interativo com Data e Cards informando os Dados do Dataframe.
 PAINEL PARA SELECIONAR A DATA DOS CASOS OCORRIDOS DA COVID-19
 ![Selecionar Data](https://snipboard.io/Q24PpJ.jpg)
 ---
-Grafico de Linha para Identificação de Casos Acumulados e Óbitos Totais! 
+Gráfico de Linha para Visualização de Casos Acumulados e Óbitos Totais! 
 ![Gráfico de Linha](https://snipboard.io/2FUXiG.jpg)
+---
+Gráfico de Barras para Visualização de Novos Casos e Óbitos por Dia!
+![Gráfico de Barras](https://snipboard.io/wi3NOt.jpg)
+---
+Gráfico de Mapa para Visualização do Brasil e Estados afetados pela COVID-19!
+![Mapa para visualização geral e de estados afetados](https://snipboard.io/QpDMsa.jpg)
+---
+
+
 
 ### Tecnologias Utilizadas
 - **Python**
