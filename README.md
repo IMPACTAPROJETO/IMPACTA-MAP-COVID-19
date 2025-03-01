@@ -1,3 +1,29 @@
+Dashboard de Monitoramento da COVID-19 no Brasil
+-
+📌 Funcionalidades
+
+Mapa interativo: Exibe um mapa de calor dos estados brasileiros com base nos casos de COVID-19.
+
+Gráficos interativos: Permite visualizar a evolução dos casos acumulados, novos casos, óbitos e outras métricas por estado.
+
+Seleção de Data: O usuário pode selecionar uma data específica para visualizar os dados correspondentes.
+
+Filtragem por Estado: Alternar entre os dados do Brasil inteiro ou de estados específicos.
+-
+Indicadores Chave: Exibição de estatísticas como casos recuperados, casos em acompanhamento, total de casos confirmados e número de óbitos.
+-
+📁 Projeto_Dash_COVID19
+│── app.py  # Script principal da aplicação
+│── HIST_PAINEL_COVIDBR_13mai2021.csv  # Base de dados com os registros da COVID-19
+│── geojson/
+│   ├── brazil_geo.json  # Arquivo com as coordenadas dos estados brasileiros
+│── assets/
+│   ├── logo_dark.png # Logo exibido no painel
+    ├──  Style.css # Estrutura css
+│── df_states.csv  # Dados processados por estado
+│── df_brasil.csv  # Dados processados do Brasil
+
+
 ## ⚠️ PROJETO FACULDADE ⚠️
 ---
 Análise de Dados🔍📊   IMPACTA 
