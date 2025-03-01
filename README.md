@@ -6,7 +6,7 @@ Análise de Dados🔍📊   IMPACTA
 ---
 
 ### Sobre o Projeto💡
-Este projeto apresenta a construção de um dashboard interativo desenvolvido em Python, utilizando as bibliotecas Plotly e Dash, com o objetivo de fornecer uma ferramenta acessível e dinâmica para a visualização e análise de dados da epidemia Covid-19😷
+Este projeto apresenta a construção de um dashboard interativo desenvolvido em CSS, Python, utilizando as bibliotecas Plotly e Dash com o objetivo de fornecer, uma ferramenta acessível e dinâmica para a visualização e análise de dados da epidemia Covid-19😷
 ---
 Com esse painel, os usuários podem:🖥️
 
