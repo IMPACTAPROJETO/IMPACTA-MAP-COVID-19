@@ -90,6 +90,22 @@ Gráfico de Mapa para Visualização do Brasil e Estados afetados pela COVID-19!
 ---
 
 ### Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+🚀 Como Executar o Projeto
+
+Clone o repositório:
+
+git clone https://github.com/IMPACTAPROJETO/IMPACTA-MAP-COVID-19
+cd projeto-dash-covid
+
+Instale as dependências necessárias:
+
+pip install -r requirements.txt
+
+Execute o script:
+
+python app.py
+
+Acesse a aplicação no navegador: http://127.0.0.1:8050/
+🔥 Exemplo de Uso
+
+O painel exibe um mapa interativo onde a cor dos estados representa a quantidade de casos novos registrados em um determinado dia. Além disso, indicadores e gráficos mostram estatísticas detalhadas da COVID-19 no Brasil.
