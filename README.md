@@ -20,6 +20,16 @@ Com esse painel, os usuários podem:🖥️
 # 🚨IMPACTA MAP COVID-19🦠💉😷🚨
 Painel Dashboard Análise De Dados da COVID-19
 ![Dashboard IMPACTA-MAPCOVID](https://snipboard.io/FnbUQz.jpg)  
+---
+Painel Dashboard (Carregando)
+![Análise de dados Carregando](https://snipboard.io/m5HpJn.jpg)
+----
+Painel Dashboard (Visão Geral)
+![Análise de Dados evolução COVID-19](https://snipboard.io/MbJNPC.jpg)
+----
+Painel Dashboard Estado De São Paulo Selecionado
+![Visualização do Estado de São Paulo](https://snipboard.io/xaIVUE.jpg)
+
 
 
 ---
