@@ -1,4 +1,4 @@
-#import das bibliotecas 
+#import das bibliotecas  
 import os
 import dash
 from dash import dcc, html
