@@ -106,6 +106,7 @@ Execute o script:
 python app.py
 
 Acesse a aplicação no navegador: http://127.0.0.1:8050/
+OBSERVAÇÃO! FAZER O DOWNLOAD DA PLANILHA COMPLETA DIRETO DO SITE DA CORONAVÍRUS: https://covid.saude.gov.br/ PARA QUE FUNCIONE CORRETAMENTE A APLICAÇÃO.
 🔥 Exemplo de Uso
 
 O painel exibe um mapa interativo onde a cor dos estados representa a quantidade de casos novos registrados em um determinado dia. Além disso, indicadores e gráficos mostram estatísticas detalhadas da COVID-19 no Brasil.
